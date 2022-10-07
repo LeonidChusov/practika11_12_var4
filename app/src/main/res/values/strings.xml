@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">practika12_var4</string>
+    <string name="Add_weather">Добавьте погоду</string>
+    <string name="Temperature">Температура</string>
+    <string name="City">Город</string>
+    <string name="Number">Число</string>
+    <string name="Month">Месяц</string>
+    <string name="Year">Год</string>
+    <string name="Back">Назад</string>
+    <string name="Hello_look_weaher">Привет, посмотри погоду!</string>
+    <string name="Look_weaher">Посмотреть погоду</string>
+    <string name="Weather_list">Список погоды</string>
+    <string name="update_weather">Изменить погоду</string>
+</resources>
